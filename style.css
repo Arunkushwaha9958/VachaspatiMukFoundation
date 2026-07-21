@@ -149,7 +149,7 @@ body {
 .hero-bg-pattern {
   position: absolute;
   inset: 0;
-  background-image: url('background3.jpg');
+  background-image: url('Background3.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
